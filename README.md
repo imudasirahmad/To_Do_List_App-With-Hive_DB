@@ -1,16 +1,18 @@
 # todo_list_app
 
-A new Flutter project.
+As a passionate hashtag#Flutter developer, I've been working on something. Let me introduce my - To-Do List App 📱To-Do List App with Hive DB! 🚀😃
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+🗃️ Why Hive DB?
+I opted for Hive DB to handle the local storage of task data. It's lightweight, fast, and beautifully integrated with Flutter. Your to-do items are now securely stored in your system, allowing for quick access and smooth performance.
 
-A few resources to get you started if this is your first Flutter project:
+Key Features:
+👉Add New Item
+👉Update Existing One
+👉Delete any 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app has motivated me to keep improving and exploring more opportunities in the Flutter ecosystem
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mudasirahmad0311@gmail.com
+
+https://www.linkedin.com/in/mudasirahmadkhan/
